@@ -1,0 +1,459 @@
+Script started on 2024-10-04 21:45:09+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL[00m $ pwd
+[?2004l/mnt/c/Users/DELL
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL[00m $ ls
+[?2004l [0m[01;32m1.png[0m                                                                                          [34;42mPictures[0m
+[34;42m'3D Objects'[0m                                                                                    [01;36mPrintHood[0m
+[01;32m'Alpha contest assignment.ipynb'[0m                                                                [34;42mPycharmProjects[0m
+ [34;42mAppData[0m                                                                                        [01;36mRecent[0m
+[01;36m'Application Data'[0m                                                                             [34;42m'Saved Games'[0m
+ [34;42mContacts[0m                                                                                       [34;42mSearches[0m
+ [01;36mCookies[0m                                                                                        [01;36mSendTo[0m
+ [34;42mDesktop[0m                                                                                       [01;36m'Start Menu'[0m
+ [34;42mDocuments[0m                                                                                      [01;36mTemplates[0m
+ [34;42mDownloads[0m                                                                                      [01;32mUntitled.ipynb[0m
+ [01;32mFakeNews_detector_project.ipynb[0m                                                                [01;32mUntitled1.ipynb[0m
+ [34;42mFavorites[0m                                                                                      [01;32mUntitled2.ipynb[0m
+ [34;42mInstallAnywhere[0m                                                                                [01;32mUntitled3.ipynb[0m
+ [34;42mIntelGraphicsProfiles[0m                                                                          [34;42mVideos[0m
+ [34;42mLinks[0m                                                                                         [34;42m'VirtualBox VMs'[0m
+[01;36m'Local Settings'[0m                                                                                [34;42mabaqus_plugins[0m
+ [34;42mMusic[0m                                                                                          [01;32mabaqus_v6.14.gpr[0m
+[01;36m'My Documents'[0m                                                                                  [34;42manaconda3[0m
+ [01;32mNTUSER.DAT[0m                                                                                     [34;42mansel[0m
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf[0m                                        [01;32mmy_unix_session[0m
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms[0m   [01;32mntuser.dat.LOG1[0m
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms[0m   [01;32mntuser.dat.LOG2[0m
+ [01;36mNetHood[0m                                                                                        [01;32mntuser.ini[0m
+ [34;42mOneDrive[0m                                                                                       [34;42mproject-test[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL[00m $ cd Desktop
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ [K[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ ls -F Desktop/shell-lesson- data
+[?2004lls: cannot access 'Desktop/shell-lesson-data': No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ [7mls -F Desktop/shell-lesson-[27m[7md[27m[7mata[27m[A[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ ls -F Desktop/shell-lesson-data[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDesktop/shell-lesson-da[1Pta[A[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ [C[C[C[C[Cesktop/shell-lesson-dat[1Pa[A[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ [C[C[C[C[Csktop/shell-lesson-data[K[A[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ [C[C[C[C[Cktop/shell-lesson-data [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ptop/shell-lesson-data
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pop/shell-lesson-data[1Pp/shell-lesson-data[1P/shell-lesson-data[1Pshell-lesson-data shell-lesson-data
+[?2004l[0m[34;42mexercise-data[0m/  [34;42mnorth-pacific-gyre[0m/
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop[00m $ cd shell-lesson-data/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data[00m $ cd exercise-data/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ ls[K[Kcd writing/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [34;42mthesis[0m/
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls -F thesis/
+[?2004l[0m[01;32mdraft.txt[0m*
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ touch my_file.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [01;32mmy_file.txt[0m  [34;42mthesis[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls -1
+[?2004l[0m[01;32mLittleWomen.txt[0m
+[01;32mhaiku.txt[0m
+[01;32mmy_file.txt[0m
+[34;42mthesis[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ rm my_file.txt 
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ mv thesis/draft.txt thesis/qua[Kotes.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls thesis
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ mv thesis/quotes/[K.txt
+[?2004lmv: missing destination file operand after 'thesis/quotes.txt'
+Try 'mv --help' for more information.
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ mv thesis/quotes.txt .
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls thesis
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls quotes.txt
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [01;32mquotes.txt[0m*  [34;42mthesis[0m/
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m$ ls -F[27m
+[7manalyzed/ raw/[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C$ ls -F
+analyzed/ raw/
+[A
+[?2004l$: command not found
+bash: analyzed/: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m$ ls -F[27m
+[7manalyzed/ raw/[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C$ ls -F
+analyzed/ raw/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P
+
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [01;32mquotes.txt[0m*  [34;42mthesis[0m/
+bash: analyzed/: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m$ ls -F[27m
+[7manalyzed/ raw/[27m
+^C[?2004l[?2004h[?2004l
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m$ ls -F[27m
+[7manalyzed/ raw/[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C$ ls -F
+analyzed/ raw/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P
+
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [01;32mquotes.txt[0m*  [34;42mthesis[0m/
+bash: analyzed/: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m$ ls -F[27m
+[7manalyzed/ raw/[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C$ ls -F
+analyzed/ raw/[C[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[C[C[1Praw/[C[1Praw/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Craw/
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/[1Praw/Lraw/Sraw/ raw/-raw/Fraw/ raw/
+[?2004lLS: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [K[A[K[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [K[A[K[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [01;32mquotes.txt[0m  [34;42mthesis[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [01;32mquotes.txt[0m*  [34;42mthesis[0m/
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ cp quotes.txt thesis.txt[K[K[K[K[Ks/quotations.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7mls quotes.txt thesis/quotations.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Cls quotes.txt thesis/quotations.txt
+[?2004l[0m[01;32mquotes.txt[0m  [01;32mthesis/quotations.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7mcp -r thesis thesis_backup[27m[C[C[C[C[C[C[C[C[C[C[C[C[Ccp -r thesis thesis_backup
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7mls thesis thesis_backup[27m[C[C[C[C[C[C[C[C[C[C[C[C[Cls thesis thesis_backup
+[?2004lthesis:
+[0m[01;32mquotations.txt[0m
+
+thesis_backup:
+[01;32mquotations.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ rm.[K quotes.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls quotes.txt
+[?2004lls: cannot access 'quotes.txt': No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m rm -i thesis_backup/quotations.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C rm -i thesis_backup/quotations.txt
+[?2004lrm: remove regular file 'thesis_backup/quotations.txt'? no
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [34;42mthesis[0m  [34;42mthesis_backup[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m rm -i thesis_backup/quotations.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C rm -i thesis_backup/quotations.txt
+[?2004lrm: remove regular file 'thesis_backup/quotations.txt'? 
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [34;42mthesis[0m  [34;42mthesis_backup[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ rm thesu[Kis
+[?2004lrm: cannot remove 'thesis': Is a directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ rm -r thesis
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m rm -i thesis_backup/quotations.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C rm -i thesis_backup/quotations.txt ye[K[K
+[?2004lrm: remove regular file 'thesis_backup/quotations.txt'? yes
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [34;42mthesis_backup[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7m rm -i thesis_backup/quotations.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C rm -i thesis_backup/quotations.txt
+[?2004lrm: cannot remove 'thesis_backup/quotations.txt': No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ mkdir backup
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7mcp creatures/minotaur.dat creatures/unicorn.dat backup/[27m[C[C[C[C[C[C[C[C[C[C[C[C[Ccp creatures/minotaur.dat creatures/unicorn.dat backup/
+[?2004lcp: cannot stat 'creatures/minotaur.dat': No such file or directory
+cp: cannot stat 'creatures/unicorn.dat': No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ [7mcp ../creatures/minotaur.dat ../creatures/unicorn.dat backup/[27m[C[C[C[C[C[C[C[C[C[C[C[C[Ccp ../creatures/minotaur.dat ../creatures/unicorn.dat backup/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ cd creatures
+[?2004lbash: cd: creatures: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/writing[00m $ cd.[K ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd creatures
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/creatures[00m $ ls -F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32mminotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/creatures[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd alkanes
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ ls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ wc cubane.pdb
+[?2004l  20  156 1158 cubane.pdb
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ wc *.pdb
+[?2004l  20  156 1158 cubane.pdb
+  12   84  622 ethane.pdb
+   9   57  422 methane.pdb
+  30  246 1828 octane.pdb
+  21  165 1226 pentane.pdb
+  15  111  825 propane.pdb
+ 107  819 6081 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ wc -1 *.pdb
+[?2004lwc: invalid option -- '1'
+Try 'wc --help' for more information.
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ wc -l *.pdb
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7mwc -l *.pdb > lengths.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Cwc -l *.pdb > lengths.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ lz[Ks lengths.txt
+[?2004l[0m[01;32mlengths.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ ls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32mlengths.txt[0m  [01;32moctane.pdb[0m   [01;32mpropane.pdb[0m
+[01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32mpentane.pdb[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ cat lengths.txt
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd _
+[?2004lbash: cd: _: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd-
+[?2004lCommand 'cd-' not found, did you mean:
+  command 'cdb' from deb tinycdb (0.81-1)
+Try: apt install <deb name>
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd -
+[?2004l/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7msort -n lengths.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Csort -n lengths.txt
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7msort -n lengths.txt > sorted-lengths.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Csort -n lengths.txt > sorted-lengths.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7mhead -n 1 sorted-lengths.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Chead -n 1 sorted-lengths.txt
+[?2004l   9 methane.pdb
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ cd [7mshell-lesson-data/exercise-data/animal-counts/animals.csv[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cshell-lesson-data/exercise-data/animal-counts/animals.csv
+[?2004lbash: cd: shell-lesson-data/exercise-data/animal-counts/animals.csv: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd [7manimal-counts/animals.csv[27m[C[C[C[C[C[C[C[Canimal-counts/animals.csv
+[?2004lbash: cd: animal-counts/animals.csv: Not a directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd animal-counts/a[K
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ cd a[K[K[K[Kls
+[?2004l[0m[01;32manimals.csv[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7mhead -n 3 animals.csv > animals-subset.csv[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chead -n 3 animals.csv > animals-subset.csv
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7mtail -n 2 animals.csv >> animals-subset.csv[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctail -n 2 animals.csv >> animals-subset.csv
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd a
+alkanes/       animal-counts/ 
+[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd alkanes/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7m$ sort -n lengths.txt | head -n 1[27m[C[C[C[C[C[C[C[C[C[C[C[C[C$ sort -n lengths.txt | head -n 1
+[?2004l$: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7m$ sort -n lengths.txt | head -n 1[27m[C[C[C[C[C[C[C[C[C[C[C[C[C$ sort -n lengths.txt | head -n 1[1P[1P
+[?2004l   9 methane.pdb
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7m$ wc -l *.pdb | sort -n[27m[C[C[C[C[C[C[C[C[C[C[C[C[C$ wc -l *.pdb | sort -n
+[?2004l$: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7m$ wc -l *.pdb | sort -n[27m[C[C[C[C[C[C[C[C[C[C[C[C[C$ wc -l *.pdb | sort -n[1P[1P
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ [7mcat animals.csv | head -n 5 | tail -n 3 | sort -r > final.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[Ccat animals.csv | head -n 5 | tail -n 3 | sort -r > final.txt
+[?2004lcat: animals.csv: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/alkanes[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd a
+alkanes/       animal-counts/ 
+[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd animal-counts/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7mcat animals.csv | head -n 5 | tail -n 3 | sort -r > final[27m[7m.[27m[7mtxt[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat animals.csv | head -n 5 | tail -n 3 | sort -r > final.txt
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7mcut -d , -f 2 animals.csv[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d , -f 2 animals.csv
+[?2004ldeer
+rabbit
+raccoon
+rabbit
+deer
+fox
+rabbit
+bear
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7m$ cut -d , -f 2 animals.csv | sort | uniq[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$ cut -d , -f 2 animals.csv | sort | uniq
+[?2004l$: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7m$ cut -d , -f 2 animals.csv | sort | uniq[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$ cut -d , -f 2 animals.csv | sort | uniq[1P
+[?2004lbear
+deer
+fox
+rabbit
+raccoon
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ [7mcut -d, -f 2 animals.csv | sort | uniq -c[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d, -f 2 animals.csv | sort | uniq -c
+[?2004l      1 bear
+      2 deer
+      1 fox
+      3 rabbit
+      1 raccoon
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/animal-counts[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data[00m $ ls
+[?2004l[0m[34;42mexercise-data[0m  [34;42mnorth-pacific-gyre[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data[00m $ cd north-pacific-gyre/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ wc -l *.txt
+[?2004l  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+  300 NENE01751B.txt
+  300 NENE01812A.txt
+  300 NENE01843A.txt
+  300 NENE01843B.txt
+  300 NENE01971Z.txt
+  300 NENE01978A.txt
+  300 NENE01978B.txt
+  240 NENE02018B.txt
+  300 NENE02040A.txt
+  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ [7mwc -l *.txt | sort -n | head -n 5[27m[C[C[C[C[C[C[C[C[C[Cwc -l *.txt | sort -n | head -n 5
+[?2004l  240 NENE02018B.txt
+  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ [7m-l *.txt | sort -n | tail -n 5[27m[C[C[C[C[C[C[C[C[C[C-l *.txt | sort -n | tail -n 5
+[?2004l-l: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ wc [7m-l *.txt | sort -n | tail -n 5[27m[C[C[C[C[C[C[C[C[C[C[C[C[C-l *.txt | sort -n | tail -n 5
+[?2004l  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ [7mls *Z.txt[27mls *Z.txt
+[?2004l[0m[01;32mNENE01971Z.txt[0m  [01;32mNENE02040Z.txt[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ [7mhead -n 5 basilisk.dat minotaur.dat unicorn.dat[27m[C[C[C[C[C[C[C[C[C[Chead -n 5 basilisk.dat minotaur.dat unicorn.dat
+[?2004lhead: cannot open 'basilisk.dat' for reading: No such file or directory
+head: cannot open 'minotaur.dat' for reading: No such file or directory
+head: cannot open 'unicorn.dat' for reading: No such file or directory
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/north-pacific-gyre[00m $ cd ..
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data[00m $ ls
+[?2004l[0m[34;42mexercise-data[0m  [34;42mnorth-pacific-gyre[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data[00m $ cd exercise-data/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ ls
+[?2004l[0m[34;42malkanes[0m  [34;42manimal-counts[0m  [34;42mcreatures[0m  [01;32mnumbers.txt[0m  [34;42mproject[0m  [34;42mwriting[0m
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data[00m $ cd creatures/
+[?2004l[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/creatures[00m $ [7mhead -n 5 basilisk.dat minotaur.dat unicorn.dat[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chead -n 5 basilisk.dat minotaur.dat unicorn.dat
+[?2004l==> basilisk.dat <==
+COMMON NAME: basilisk
+CLASSIFICATION: basiliscus vulgaris
+UPDATED: 1745-05-02
+CCCCAACGAG
+GAAACAGATC
+
+==> minotaur.dat <==
+COMMON NAME: minotaur
+CLASSIFICATION: bos hominus
+UPDATED: 1765-02-17
+CCCGAAGGAC
+CGACATCTCT
+
+==> unicorn.dat <==
+COMMON NAME: unicorn
+CLASSIFICATION: equus monoceros
+UPDATED: 1738-11-24
+AGCCGGGTCG
+CTTTACCTTA
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/creatures[00m $ [7mfor filename in basilisk.dat minotaur.dat unicorn.dat[27m
+[7m> do[27m
+[7m>     echo $filename[27m
+[7m>     head -n 2 $filename | tail -n 1[27m
+[7m> done[27m[A[A[A[A[C[C[C[C[C[C[C[C[Cfor filename in basilisk.dat minotaur.dat unicorn.dat
+> do
+>     echo $filename
+>     head -n 2 $filename | tail -n 1
+> done
+[?2004lbash: syntax error near unexpected token `>'
+-n: command not found
+[?2004h[01;34mDELL@DESKTOP-FLNDI2Q [01;32m/mnt/c/Users/DELL/Desktop/shell-lesson-data/exercise-data/creatures[00m $ for filename in basilisk.dat minotaur.dat unicorn.dat 
+[?2004l[?2004h> do
+[?2004l[?2004h> 
+Display all 7191 possibilities? (y or n)
+!
+./
+.anaconda-navigator-post-link.bat
+.eclipseproduct
+.qt-post-link.bat
+07409496-a423-4a3e-b620-2cfb01a9318d_HyperV-ComputeNetwork.dll
+0ae3b998-9a38-4b72-a4c4-06849441518d_Servicing-Stack.dll
+2to3-script.py
+2to3.exe
+4545ffe2-0dc4-4df4-9d02-299ef204635e_hvsocket.dll
+69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
+6bea57fb-8dfb-4177-9ae8-42e8b3529933_RuntimeDeviceInstall.dll
+7z.exe
+:
+@AdvancedKeySettingsNotification.png
+@AppHelpToast.png
+@AudioToastIcon.png
+@BackgroundAccessToastIcon.png
+@EnrollmentToastIcon.png
+@StorageSenseToastIcon.png
+@VpnToastIcon.png
+@WLOGO_96x96.png
+@WindowsHelloFaceToastIcon.png
+@WindowsUpdateToastIcon.contrast-black.png
+@WindowsUpdateToastIcon.contrast-white.png
+@WindowsUpdateToastIcon.png
+@WirelessDisplayToast.png
+@bitlockertoastimage.png
+@edptoastimage.png
+@facial-recognition-windows-hello.gif
+@language_notification_icon.png
+@optionalfeatures.png
+ACPBackgroundManagerPolicy.dll
+AJRouter.dll
+APHostClient.dll
+APHostRes.dll
+APHostService.dll
+APMon.dll
+APMonUI.dll
+ARP.EXE
+--More--[KAUDIOKSE.dll
+AarSvc.dll
+AboutSettingsHandlers.dll
+AboveLockAppHost.dll
+AcGenral.dll
+AcLayers.dll
+AcSpecfc.dll
+AcWinRT.dll
+AcXtrnal.dll
+AccountsRt.dll
+ActionCenter.dll
+ActionCenterCPL.dll
+ActionQueue.dll
+ActivationClient.dll
+ActivationManager.dll
+ActiveHours.png
+ActiveSyncCsp.dll
+ActiveSyncProvider.dll
+AdaptiveCards.dll
+AddressParser.dll
+AdvancedEmojiDS.dll
+AggregatorHost.exe
+Analog.Shell.Broker.dll
+AnalogCommonProxyStub.dll
+ApiSetHost.AppExecutionAlias.dll
+AppContracts.dll
+AppExtension.dll
+AppHostRegistrationVerifier.exe
+AppInstallerBackgroundUpdate.exe
+AppInstallerPrompt.Desktop.dll
+AppListBackupLauncher.dll
+AppLockerCSP.dll
+AppMon.dll
+AppReadiness.dll
+AppResolver.dll
+AppXApplicabilityBlob.dll
+AppXDeploymentClient.dll
+AppXDeploymentExtensions.desktop.dll
+AppXDeploymentExtensions.onecore.dll
+AppXDeploymentServer.dll
+--More--[KApphlpdm.dll
+ApplicationControlCSP.dll
+ApplicationFrame.dll
+ApplicationFrameHost.exe
+ApplicationTargetedFeatureDatabase.dll
+ApplyTrustOffline.exe
+AppointmentActivation.dll
+AppointmentApis.dll
+ApproveChildRequest.exe
+AppxAllUserStore.dll
+AppxApplicabilityEngine.dll
+AppxPackaging.dll
+AppxProvisioning.xml
+AppxSip.dll
+AppxStreamingDataSourcePS.dll
+AppxSysprep.dll
+Apx01000.dll
+AssignedAccessRuntime.dll
+AtBroker.exe
+AudioEndpointBuilder.dll
+AudioEng.dll
+AudioHandlers.dll
+AudioSes.dll
+AudioSrvPolicyManager.dll
+AuditRsop.mof
+AuthBroker.dll
+AuthBrokerUI.dll
+AuthExt.dll
+AuthFWGP.dll
+AuthFWSnapin.dll
+AuthFWWizFwk.dll
+AuthHost.exe
+AuthHostProxy.dll
+AutomaticAppSignInPolicy.dll
+AverageRoom.bin
+AxInstSv.dll
+AxInstUI
